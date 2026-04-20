@@ -71,3 +71,4 @@ Integrate real-time data sources
 Enhance UI/UX design
 
 **🖼️ Dashboard Preview**
+https://github.com/Ashabala-cloud/Amazon-sale-/blob/main/Amazon%20sales.png
